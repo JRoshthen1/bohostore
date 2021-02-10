@@ -29,7 +29,7 @@ define( 'DB_USER', 'thetotalone_comartclub' );
 define( 'DB_PASSWORD', 'DrawClub2021' );
 
 /** MySQL hostname */
-define( 'DB_HOST', 'thetotalone.com.mysql' );
+define( 'DB_HOST', 'localhost' );
 
 /** Database Charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
